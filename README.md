@@ -22,7 +22,7 @@
 
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
-| 📚 [Sistema de Biblioteca](https://github.com/DESTRUIDOR2029/sistema-biblioteca) | Gerenciamento de acervo em Python | Python |
+| 📚 [Sistema de Biblioteca com livros e Usuários](https://github.com/VitorGuiFerSantos/endWorkED1) | Gerenciamento de acervo em C | C |
 | 🌾 [TursLock](https://github.com/DESTRUIDOR2029/turslock) | Plataforma web para turismo rural | HTML/Tailwind CSS |
 
 ---
