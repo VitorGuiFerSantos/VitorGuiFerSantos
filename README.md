@@ -23,13 +23,13 @@
 | Projeto | Descrição | Tecnologia |
 |---|---|---|
 | 📚 [Sistema de Biblioteca com livros e Usuários](https://github.com/VitorGuiFerSantos/endWorkED1) | Gerenciamento de acervo em C | C |
-| 🌾 [TursLock](https://github.com/DESTRUIDOR2029/turslock) | Plataforma web para turismo rural | HTML/Tailwind CSS |
+| 🌾 [TursLock](https://github.com/VitorGuiFerSantos/turslock) | Plataforma web para turismo rural | HTML/Tailwind CSS |
 
 ---
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DESTRUIDOR2029&show_icons=true&theme=default&locale=pt-br&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorGuiFerSantos&show_icons=true&theme=default&locale=pt-br&hide_border=true)
 
 ---
 
